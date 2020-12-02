@@ -1,0 +1,22 @@
+#header {
+  background-image: linear-gradient(
+    to right,
+    #6524ac,
+    #7a26a7,
+    #8b2aa3,
+    #99309f,
+    #a5389b
+  );
+  min-height: 100vh;
+  width: 100%;
+}
+.img-container img {
+  width: 90%;
+}
+/*.text-container {
+  justify-content: center;
+  align-items: flex-start;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+}*/

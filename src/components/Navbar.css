@@ -1,0 +1,10 @@
+.navbar-container {
+  background-image: linear-gradient(
+    to right,
+    #6524ac,
+    #7a26a7,
+    #8b2aa3,
+    #99309f,
+    #a5389b
+  );
+}
