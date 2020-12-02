@@ -28,7 +28,7 @@ const Navbar = () => {
                   Criptomonedas
                 </a>
               </li>
-              <li className="nav-item ml-2">
+              <li className="nav-item mr-2">
                 <a className="nav-link text-white" href="#">
                   Cotización
                 </a>
@@ -36,13 +36,13 @@ const Navbar = () => {
             </ul>
             <form className="form-inline my-2 my-lg-0">
               <button
-                className="btn btn-border-white my-2 my-sm-0 ml-3"
+                className="btn btn-border-white my-2 my-sm-0 mr-3"
                 type="submit"
               >
                 Iniciar Sesión
               </button>
               <button
-                className="btn btn-full-white my-2 my-sm-0 ml-3"
+                className="btn btn-full-white my-2 my-sm-0 mr-3"
                 type="submit"
               >
                 Registrar

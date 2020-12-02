@@ -1,5 +1,7 @@
 import Navbar from "./components/Navbar";
 import Header from "./components/Header";
+import ServiciosContainer from "./components/ServiciosContainer";
+import About from "./components/About";
 import "./App.css";
 
 const App = () => {
@@ -7,6 +9,8 @@ const App = () => {
     <div>
       <Navbar />
       <Header />
+      <ServiciosContainer />
+      <About />
     </div>
   );
 };

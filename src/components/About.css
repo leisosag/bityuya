@@ -1,0 +1,16 @@
+.texto-about {
+  width: 100%;
+  height: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.texto-about h1 {
+  font-weight: 700;
+}
+.texto-about p {
+  font-weight: 200;
+}
+.width80 {
+  width: 80%;
+}

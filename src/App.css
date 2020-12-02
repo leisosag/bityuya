@@ -1,5 +1,6 @@
 :root {
   --acento: #6524ac;
+  --acento-shadow: hsla(269, 65%, 41%, 0.8);
   --acento-claro: #a5389b;
   --verde: #00c3a9;
   --rojo: #a10000;
@@ -12,7 +13,7 @@
 
 /* BUTTONS */
 .btn-border-white {
-  border: 1px solid var(--blanco);
+  border: 2px solid var(--blanco);
   background-color: transparent;
   border-radius: 1rem;
   color: var(--blanco);
@@ -23,11 +24,21 @@
 }
 .btn-full-white {
   background-color: var(--blanco);
-  border: 1px solid var(--blanco);
+  border: 2px solid var(--blanco);
   color: var(--acento);
   border-radius: 1rem;
 }
 .btn-full-white:hover {
   background-color: transparent;
+  color: var(--blanco);
+}
+.btn-border-accent {
+  border: 2px solid var(--acento);
+  background-color: transparent;
+  color: var(--acento);
+  border-radius: 1rem;
+}
+.btn-border-accent:hover {
+  background-color: var(--acento);
   color: var(--blanco);
 }

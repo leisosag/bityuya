@@ -1,0 +1,11 @@
+.texto-servicios h2 {
+  font-weight: 700;
+  color: var(--acento);
+}
+.texto-servicios p {
+  font-weight: 200;
+  color: var(--negro);
+}
+#servicios {
+  color: var(--negro);
+}
