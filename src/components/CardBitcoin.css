@@ -1,0 +1,33 @@
+.stats {
+  color: var(--rojo);
+  display: flex;
+}
+.stats i {
+  font-size: 0.8rem;
+}
+.stats h6 {
+  padding-top: 0.3rem;
+  font-size: 0.8rem;
+}
+.bitcoin-card img {
+  justify-content: flex-end;
+}
+.bitcoin-card p {
+  color: var(--gris);
+  font-weight: 400;
+}
+.bitcoin-card h5 {
+  font-weight: 700;
+}
+.bitcoin-card h4 {
+  color: var(--acento);
+  font-weight: 700;
+  font-size: 1.5rem;
+}
+.bitcoin-card .card-text {
+  margin-top: -0.5rem;
+}
+.compra-venta h5 {
+  font-size: 1rem;
+  font-weight: 400;
+}

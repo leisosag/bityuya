@@ -8,7 +8,7 @@ const Navbar = () => {
       <div className="container">
         <nav className="navbar navbar-expand-lg navbar-light">
           <a className="navbar-brand text-white" href="#">
-            <img src={Logo} width="30" height="30" alt="" /> Bityuya
+            <img src={Logo} width="30" height="30" alt="logo" /> Bityuya
           </a>
           <button
             className="navbar-toggler"

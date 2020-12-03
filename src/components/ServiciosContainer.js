@@ -17,7 +17,7 @@ const ServiciosContainer = () => {
             </p>
           </div>
         </div>
-        <div className="row justify-content-center  mt-5 mb-5">
+        <div className="row justify-content-center mt-5 mb-5">
           <div className="col-md-4">
             <Card
               titulo="Depositá pesos"

@@ -7,6 +7,7 @@
 }
 .texto-about h1 {
   font-weight: 700;
+  color: var(--acento);
 }
 .texto-about p {
   font-weight: 200;

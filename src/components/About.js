@@ -5,9 +5,9 @@ import about from "../img/about.png";
 const About = () => {
   return (
     <section id="about">
-      <div className="container texto-about">
+      <div className="container texto-about pt-5 pb-5">
         <div className="row">
-          <div className="col-md-6 d-flex flex-column  align-items-start justify-content-center texto-header mb-5">
+          <div className="col-md-6 d-flex flex-column align-items-start justify-content-center texto-header mb-5">
             <h1 className="width80">
               Somos tu puerta de acceso al mundo cripto
             </h1>
