@@ -1,6 +1,11 @@
 .stats {
-  color: var(--rojo);
   display: flex;
+}
+.stats-down {
+  color: var(--rojo);
+}
+.stats-up {
+  color: var(--verde);
 }
 .stats i {
   font-size: 0.8rem;
